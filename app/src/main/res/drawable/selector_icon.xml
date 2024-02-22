@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Default state (profile icon) -->
+    <item android:drawable="@drawable/folder" android:state_pressed="false"/>
+    <!-- Long-pressed state (tick icon) -->
+    <item android:drawable="@drawable/selected" android:state_pressed="true"/>
+</selector>

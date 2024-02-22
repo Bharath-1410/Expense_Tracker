@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="textColor">#000000</color>
+    <color name="dark_gray">#1E1E1E</color>
+    <color name="charcoal">#090c0f</color>
+    <color name="subBackGround">#1b1c22</color>
+    <color name="blue">#0d6efd</color>
+<!--    <color name="shadowColor">#1b1c22</color>-->
+<!--    white mode-->
+    <color name="shadowColor">#B8D7E9</color>
+    <color name="green">#28BD78</color>
+    <color name="warning">#e64545</color>
+    <color name="saving">#28BD78</color>
+<!--    <color name="background">#090c0f</color>-->
+<!--    white mode-->
+    <color name="background">#BBCCDE</color>
+    <color name="expense">#d44444</color>
+<!--    <color name="smoke">#1b1c22</color>-->
+<!--    white mode-->
+    <color name="smoke">#dee8fa</color>
+    <color name="neumorphism">#F0F0F0</color>
+    <color name="baseColor">#E0F5FF</color>
+</resources>
